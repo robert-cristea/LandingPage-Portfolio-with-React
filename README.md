@@ -1,4 +1,4 @@
-# React landing page template
+# React Landing page template
 
 ### Available Scripts
 
